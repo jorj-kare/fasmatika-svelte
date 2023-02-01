@@ -14,7 +14,6 @@
 </header>
 
 <style lang="scss">
-	@use '../../static/sass/abstracts' as *;
 	header {
 		display: grid;
 		justify-content: center;
