@@ -6,7 +6,8 @@
 
 <div
 	class="wrapper"
-	style="opacity:{opacity};  background-color:{backgroundColor};"
+	style:opacity
+	style:background-color={backgroundColor}
 	in:slide={{ duration: 800 }}
 	out:fade
 >
