@@ -2,7 +2,7 @@
 	export let page;
 </script>
 
-<a class="btn-round" href="/{page}" />
+<a class="btn-round" href="/{page}"> <p /></a>
 
 <style lang="scss">
 	@use '../../static/sass/btns';
